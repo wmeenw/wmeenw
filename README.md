@@ -8,9 +8,7 @@
 
 - 🎓 2nd year at **HSE University**, Faculty of Computer Science
 - 🎯 Heading for **backend** (Java, Spring Boot) or **iOS** (Swift, SwiftUI)
-- 🧑‍🏫 Teaching assistant for the **C++** course at HSE
 - 🧩 Algorithms and math are my kind of puzzles
-- 🎧 Off-screen: hip-hop dance, travelling and Billie Eilish on repeat
 
 <img src="assets/h-stack.svg" height="44" alt="Tech stack" />
 
